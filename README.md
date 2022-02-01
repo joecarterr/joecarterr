@@ -4,8 +4,7 @@
 
 
 Hey there 👋,
-I'm a very new programmer who has almost always been highly interetse di programming/ computers just never really fully committed to doing it.
-I'm going to be using this GitHub account in order to see others programs mainly and to help me improve overall.
+I'm a very new programmer who has almost always been highly interetsed programming just never really fully committed to doing it.
 
 - 👀 I’ve almost always been interested in Software Engineering and Automation of tech.
 - 🌱 I’m currently learning Python aswell as a little Java
