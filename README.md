@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **any projects anyone has**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joecarterr?tab=projects](https://github.com/joecarterr?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/joecarterr?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
